@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy 
+tensorflow
+nltk
+bcrypt
+scikit-learn
